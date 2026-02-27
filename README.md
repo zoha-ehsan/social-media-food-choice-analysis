@@ -30,7 +30,7 @@ Overall classification accuracy: 80%
 **Repository Contents**
 SPSS Output File,
 Final Research Report (PDF),
-Survey Questionnaire
+Questionnaire
 
 **Tools Used**
 IBM SPSS Statistics,
