@@ -28,8 +28,8 @@ Strong model fit (Hosmer–Lemeshow p = .954)
 Overall classification accuracy: 80%
 
 **Repository Contents**
-SPSS Output File
-Final Research Report (PDF)
+SPSS Output File,
+Final Research Report (PDF),
 Survey Questionnaire
 
 **Tools Used**
